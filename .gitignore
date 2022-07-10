@@ -1,0 +1,12 @@
+.PK_Store
+.idea/
+.idea/*
+.vscode
+*.sublime*
+npm-debug.*
+
+node_modules/
+dist/
+app/css/*
+package-lock.json
+app/js/main.min.js
